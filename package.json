@@ -1,5 +1,5 @@
 {
-  "name": "holly_board",
+  "name": "hoot_hood",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -54,5 +54,5 @@
   "devDependencies": {
     "@types/react-helmet": "^6.1.11"
   },
-  "homepage": "https://eee0930.github.io/holly_board/"
+  "homepage": "https://eee0930.github.io/hoot_hood/"
 }
